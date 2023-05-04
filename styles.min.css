@@ -607,7 +607,8 @@ ul.app_google li {
     max-width: 1130px;
     margin: 0 auto;
     padding-left: 30px;
-    padding-right: 30px
+    padding-right: 30px;
+     background-color: #2c3f6d;
 }
 
 .header .wrapper .row-sg {
