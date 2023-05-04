@@ -599,7 +599,8 @@ ul.app_google li {
     left: 0;
     right: 0;
     height: 125px;
-    z-index: 2
+    z-index: 2;
+    background-color: #2c3f6d;
 }
 
 .header .wrapper {
