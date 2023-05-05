@@ -599,16 +599,14 @@ ul.app_google li {
     left: 0;
     right: 0;
     height: 125px;
-    z-index: 2;
-    background-color: #2c3f6d;
+    z-index: 2
 }
 
 .header .wrapper {
     max-width: 1130px;
     margin: 0 auto;
     padding-left: 30px;
-    padding-right: 30px;
-     background-color: #2c3f6d;
+    padding-right: 30px
 }
 
 .header .wrapper .row-sg {
