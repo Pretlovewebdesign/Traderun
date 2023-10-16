@@ -942,7 +942,8 @@ ul.app_google li {
     background-image: url(../img/top-bg-layout.svg);
     background-size: contain;
     background-position: top;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    background: #233664;
 }
 
 .get-section .wrapper {
